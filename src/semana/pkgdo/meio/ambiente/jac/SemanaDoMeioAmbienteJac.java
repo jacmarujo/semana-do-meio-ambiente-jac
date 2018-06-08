@@ -18,7 +18,7 @@ public class SemanaDoMeioAmbienteJac {
         // TODO code application logic here
         System.out.println("Ola galera");
         System.out.println("semana do meio ambiente");
-        System.out.println("2018");
+        System.out.println("2018-2019");
     }
     
 }
